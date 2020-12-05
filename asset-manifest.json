@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/webharkka/static/css/main.ad3c6668.chunk.css",
-    "main.js": "/webharkka/static/js/main.34bd0534.chunk.js",
-    "main.js.map": "/webharkka/static/js/main.34bd0534.chunk.js.map",
-    "runtime-main.js": "/webharkka/static/js/runtime-main.e7618d4f.js",
-    "runtime-main.js.map": "/webharkka/static/js/runtime-main.e7618d4f.js.map",
-    "static/js/2.b57f143b.chunk.js": "/webharkka/static/js/2.b57f143b.chunk.js",
-    "static/js/2.b57f143b.chunk.js.map": "/webharkka/static/js/2.b57f143b.chunk.js.map",
+    "main.js": "/webharkka/static/js/main.0c4ed054.chunk.js",
+    "main.js.map": "/webharkka/static/js/main.0c4ed054.chunk.js.map",
+    "runtime-main.js": "/webharkka/static/js/runtime-main.d53bc4e8.js",
+    "runtime-main.js.map": "/webharkka/static/js/runtime-main.d53bc4e8.js.map",
+    "static/js/2.c5fea6ea.chunk.js": "/webharkka/static/js/2.c5fea6ea.chunk.js",
+    "static/js/2.c5fea6ea.chunk.js.map": "/webharkka/static/js/2.c5fea6ea.chunk.js.map",
     "index.html": "/webharkka/index.html",
     "static/css/main.ad3c6668.chunk.css.map": "/webharkka/static/css/main.ad3c6668.chunk.css.map",
-    "static/js/2.b57f143b.chunk.js.LICENSE.txt": "/webharkka/static/js/2.b57f143b.chunk.js.LICENSE.txt"
+    "static/js/2.c5fea6ea.chunk.js.LICENSE.txt": "/webharkka/static/js/2.c5fea6ea.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e7618d4f.js",
-    "static/js/2.b57f143b.chunk.js",
+    "static/js/runtime-main.d53bc4e8.js",
+    "static/js/2.c5fea6ea.chunk.js",
     "static/css/main.ad3c6668.chunk.css",
-    "static/js/main.34bd0534.chunk.js"
+    "static/js/main.0c4ed054.chunk.js"
   ]
 }

@@ -6,6 +6,8 @@
 
 Ohjelma näkyvissä https://ainimarie.github.io/webharkka
 (Jouduin lainaamaan vaimoni githubia kun en samoilla käskyillä saanut omaani toimimaan, en tiedä miksi. Käytetty gh-pages-moduulia, ohjeet katsottu https://www.npmjs.com/package/gh-pages)
+Lähdekoodit nähtävissä: https://github.com/tjhyva/webharkka/tree/master/src
+
 
 ### Suunnitelma
 Suunnitelmissa oli toteuttaa Reactilla canvasin avulla pallon pudotus-peli joka arpoo kumpaan suuntaa pallo menee ja kumpi voittaa. Reactin käytöstä ei ollut paljon kokemusta, joten otin vähän helpomman porojektin työn alle oppimistarkoituksella.
@@ -51,8 +53,8 @@ DrawBall luo pallon: tässä katsotaan y-akselin positionia, jolla siirrytään 
 
 ### Käyttöliitymästä kuvia
 
-![Layout](./kuvat/layout_start.JPG)
-![Layout](./kuvat/layout_3nd.JPG)
+![Layout](./kuvat/lauout_start.JPG)
+![Layout](./kuvat/lauout_3nd.JPG)
 
 
 ### Arviointi

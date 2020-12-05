@@ -91,6 +91,7 @@ export const drawBall = (ctx, position) => {
         }
         ctx.arc(dicx + direction*position, 20 + position, 20, 0, 2*Math.PI)
     }
+    
     else {
         let stopx = dicx + direction*180;
         let stopy = 20 + 180;

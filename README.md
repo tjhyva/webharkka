@@ -3,10 +3,11 @@
 ## Tomi Hyvärinen
 ## Pvm.5.12.2020
 
-## School project rngball
-This school project made whit react. Drop a ball and ball goin to 1 or 2 position wich position ball goies win!!
+### School project rngball
+This school project made whit react. Drop a ball and ball goin to 1 or 2 position, wich position ball goin win. Very simple project planned to doing bigger but time was running out.
 
 
+### Linkit
 Ohjelma näkyvissä https://ainimarie.github.io/webharkka
 (Jouduin lainaamaan vaimoni githubia kun en samoilla käskyillä saanut omaani toimimaan, en tiedä miksi. Käytetty gh-pages-moduulia, ohjeet katsottu https://www.npmjs.com/package/gh-pages)
 Lähdekoodit nähtävissä: https://github.com/tjhyva/webharkka/tree/master/src

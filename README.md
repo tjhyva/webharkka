@@ -1,7 +1,10 @@
 # Web-ohjelmointi TTMS0500-3004
 ## Harjoitustyö Arpa
 ## Tomi Hyvärinen
-## Pvm.5,12.2020
+## Pvm.5.12.2020
+
+## School project rngball
+This school project made whit react. Drop a ball and ball goin to 1 or 2 position wich position ball goies win!!
 
 
 Ohjelma näkyvissä https://ainimarie.github.io/webharkka

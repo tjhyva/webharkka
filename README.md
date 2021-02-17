@@ -1,13 +1,17 @@
+# School project rngball
+
+Project made with React that uses canvas-element. Simple lottery-type ball drop, planned to do a bigger one but time was running out.
+
+Demo to [Dropaball](https://ainimarie.github.io/webharkka)
+
+---
+
+
 # Web-ohjelmointi TTMS0500-3004
 ## Harjoitustyö Arpa
 ## Tomi Hyvärinen
 ## Pvm.5.12.2020
 
-### School project rngball
-
-Project made with React that uses canvas-element. Simple lottery-type ball drop, planned to do a bigger one but time was running out.
-
-Demo to [Dropaball](https://ainimarie.github.io/webharkka)
 
 ### Linkit
 Ohjelma näkyvissä https://ainimarie.github.io/webharkka

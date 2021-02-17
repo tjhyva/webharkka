@@ -4,7 +4,7 @@
 ## Pvm.5.12.2020
 
 ### School project rngball
-This school project made whit react. Drop a ball and ball goin to 1 or 2 position, wich position ball goin win. Very simple project planned to doing bigger but time was running out.
+This school project made whit react. Drop a ball and ball goin to 1 or 2 position, wich position ball goin win. Very simple project planned to doing bigger but time was running out. [Dropaball](https://ainimarie.github.io/webharkka)
 
 
 ### Linkit
